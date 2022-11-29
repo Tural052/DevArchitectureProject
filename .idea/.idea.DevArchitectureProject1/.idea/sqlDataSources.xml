@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="dff4d730-980b-49d9-bbaf-61dadac3f23c" name="Microsoft SQL Server LocalDB (JetBrains) Mapping">
+      <data-sources db="56eaf983-913a-4f03-8aec-0dade045d2af" ddl="e5b73598-14b9-4017-ad3e-d5e1df331542" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="867ec8bb-9bed-4f27-9f45-04b5c779d9da" name="DDL data source Mapping">
+      <data-sources ddl="5a5b2479-b6e4-4eba-95b8-a483363020aa" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="7c06e825-6062-4566-8ef9-e427a33d219d" name="Microsoft SQL Server LocalDB (JetBrains) Mapping">
+      <data-sources db="ac6cb36b-6a90-45ce-bb45-1188f1fc8bb9" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
